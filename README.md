@@ -1,3 +1,13 @@
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/Jhordan98/count.svg"/>
+  <br/>
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+</div>
 # 💫 About Me:
 Soy practicante de Ingeniería de Software con entusiasmo por el desarrollo de soluciones eficientes y escalables. Me apasiona aprender nuevas tecnologías y aplicarlas en proyectos reales, desde aplicaciones web hasta herramientas automatizadas. Actualmente estoy profundizando mis conocimientos en programación orientada a objetos, estructuras de datos y frameworks modernos como React y Node.js. Me gusta trabajar en equipo, colaborar en código abierto y enfrentar desafíos que me permitan crecer como desarrollador.
 
